@@ -40,28 +40,29 @@ Maven Stolen Vehicle Dataset - https://github.com/jamesbelk0/SQL_Stolen_Vehicles
 
 ### Exploratory Data Analysis
     
- - During the exploratory data analysis, two line charts and a bar chart were created to help get a better understanding of the data.
- - Before making any analysis I created a new column for age brackets, changed the marital status from M/S to Married/Single, gender from F/M to Male/Female and created three pivot tables. 
+ - During the exploratory data analysis, a bar chart, a heatmap, and a regional map were all created. 
  - These pivot tables tracked the average income by gender, the customer commute, and the age bracket for the customer.
  
  <p align = "center"> 
-  <img src = "https://github.com/jamesbelk0/Excel-Bike-Data/blob/8d1ea7f3b0702f0656db835f5e40e6300e1f79a7/average_income.PNG">
+  <img src = "https://github.com/jamesbelk0/SQL_Stolen_Vehicles/blob/b0a3181e8927b2c472f0c66ddb20653f78c1a7c6/num_vehicles_stolen_bar.PNG">
 </p>
 
-The chart above shows the breakdown of the average income of the customer and if they purchased a bike. 
-
-- The data shows that individuals with more income typically purchase bikes.
-## Dashboard
+- The chart above shows the breakdown of the stolen vehicles by weekday giving a deeper understanding for law enforcement.
+- This shows a large rise of vehicles reported stolen on Monday and Tuesday demonstrating to me that the vehicles would be stolen over the weekend which has the lowest days. 
 
 <p align = "center"> 
-  <img src = "https://github.com/jamesbelk0/Excel-Bike-Data/blob/6bf0f3a385b34fc0bb507af59e94c200835e594f/dashboard.PNG">
+  <img src = "https://github.com/jamesbelk0/SQL_Stolen_Vehicles/blob/b0a3181e8927b2c472f0c66ddb20653f78c1a7c6/vehicle_color_heat_map.PNG">
 </p>
 
-The dashboard above allows for manipulate the data to get a more percise look at an individuals lifestyle. These metrics include Marital Status, Region, Education and if the customer owns a car. 
+- The above chart shows a heatmap of the vehicle type including the number of vehicles stolen and what color they are.
+- This shows that silver and white vehicles are the majority of the stolen vehicles.
+- This also shows that station wagons, saloon and hatchbacks are the most frequently stolen.
 
-- The data clearly shows the individuals who make over 50,000 and are middle aged are more likely to purchase a bike. These individuals also will live within 2 miles of work overall with roughly 80 customers who purchase a bike if they are more than 5-10 miles away. 
+<p align = "center"> 
+  <img src = "https://github.com/jamesbelk0/SQL_Stolen_Vehicles/blob/b0a3181e8927b2c472f0c66ddb20653f78c1a7c6/new_zealand.PNG">
+</p>
 
-# Business Solution
- - Using the dashboard above I would recommend for a shop to advertise to the middle aged market and in areas where the average income per household is over 45,000.  
- - My recommendation would be to collect this data and compare findings further expanding our knowledge and preventing possible misdiagnosis in the future. 
+- This shows a regional map of New Zealand showing the breakdown of the number of vehicles stolen based by region and a color gradient to show the most prevalent.
+- This shows that Auckland, which is also one of the smallest regions has the highest density of stolen vehicles.
+  
 For any additional questions, please contact **jamesbelk0@gmail.com**
