@@ -10,7 +10,7 @@ Utilizing Maven Analytics dataset on New Zealand's stolen vehicle data I complet
 Discover the best market to spend the advertise . 
 
 ### Data:
-Maven Stolen Vehicle Dataset - https://github.com/jamesbelk0/Excel-Bike-Data/blob/ed4dec687c78b30098be646ca074cc93ed51ae6f/Excel-Bike-Data.xlsx
+Maven Stolen Vehicle Dataset - https://github.com/jamesbelk0/SQL_Stolen_Vehicles/blob/97ca2fbc3e1208150aeb448a752bdebbe074679b/stolen_vehicles_db.sql
 
 ### Data Dictionary:
 
