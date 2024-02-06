@@ -2,7 +2,7 @@
 Utilizing Maven Analytics dataset on New Zealand's stolen vehicle data I completed a series of queries to get a better understanding of the information. 
 
 <p align = "center"> 
-  <img src = "(https://github.com/jamesbelk0/SQL_Stolen_Vehicles/blob/97ca2fbc3e1208150aeb448a752bdebbe074679b/stolen_vehicles_db.sql)">
+  <img src = "https://github.com/jamesbelk0/SQL_Stolen_Vehicles/blob/97ca2fbc3e1208150aeb448a752bdebbe074679b/stolen_vehicles_db.sql">
 </p>
 
 ### Business problem:
